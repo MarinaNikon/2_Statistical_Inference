@@ -63,7 +63,7 @@ Store-to-zone mapping:
 ## How to Run the Project
 1. Clone the repository  
 2. Open the R script  
-3. The dataset (anova_assignment_data.csv) is already included in the repository 
+3. The dataset (`anova_assignment_data.csv`) is already included in the repository 
 4. Run the script sequentially  
 
 ## Notes
