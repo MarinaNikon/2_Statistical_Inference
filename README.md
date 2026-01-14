@@ -13,7 +13,8 @@ The key outcome variable is **Sales Growth**.
 2. Evaluate the impact of **geographical zone** (West, South, East) on sales growth  
 
 ## Dataset
-The dataset is included in the repository and contains observations from **24 stores**.
+The dataset (anova_assignment_data.csv) is included in the repository and located in the root directory.
+The dataset contains observations from **24 stores**.
 
 ### Dataset Description
 Key variables:
@@ -59,7 +60,7 @@ Store-to-zone mapping:
 ## How to Run the Project
 1. Clone the repository  
 2. Open the R script  
-3. Load the dataset when prompted (`file.choose()`)  
+3. The dataset (anova_assignment_data.csv) is already included in the repository 
 4. Run the script sequentially  
 
 ## Notes
