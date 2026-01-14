@@ -13,8 +13,8 @@ The key outcome variable is **Sales Growth**.
 2. Evaluate the impact of **geographical zone** (West, South, East) on sales growth  
 
 ## Dataset
-The dataset (anova_assignment_data.csv) is included in the repository and located in the root directory.
-The dataset contains observations from **24 stores**.
+The dataset (`anova_assignment_data.csv`) is included in the repository and located in the root directory.  
+It contains observations from **24 retail stores**.
 
 ### Dataset Description
 Key variables:
