@@ -50,6 +50,9 @@ Store-to-zone mapping:
 - Post-hoc analysis indicated that the **usual campaign outperformed the new campaign**  
 - No statistically significant differences in sales growth were found across geographical zones (West, South, East)
 
+  ## Visualization
+![Sales Growth by Campaign](results/boxplot_campaign_growth.png)
+
 ## Tools and Skills
 - R
 - One-way ANOVA
