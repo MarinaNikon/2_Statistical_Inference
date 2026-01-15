@@ -16,7 +16,7 @@
 
 
 #Import data and name it as campaign.
-campaign<-read.csv(file.choose(), header = TRUE)
+campaign<-read.csv("anova_assignment_data.csv", header = TRUE)
 str(campaign)
 head(campaign)
 dim(campaign)
